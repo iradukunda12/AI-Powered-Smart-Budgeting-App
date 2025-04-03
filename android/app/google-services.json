@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32218984396",
+    "project_id": "aibudgetapp",
+    "storage_bucket": "aibudgetapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32218984396:android:87d1a065d2acc7aa75f769",
+        "android_client_info": {
+          "package_name": "com.example.ai_budgeting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKq1PnPgR4R8q1ANps6cfeobivteyf-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
